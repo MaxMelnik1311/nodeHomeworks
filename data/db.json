@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "2",
+      "name": "Chaim Lewis",
+      "email": "dui.in@egetlacus.ca",
+      "phone": "(294) 840-6685"
+    },
+    {
+      "id": "2707bed0-fb39-41a3-931e-118f15f47ff3",
+      "name": "Radrick Davis",
+      "email": "itsgucci@gmail.com",
+      "phone": "1017-6"
+    },
+    {
+      "id": "12120321-29d7-4335-8554-4a419aea2b43",
+      "name": "Radrick Davis",
+      "email": "itsgucci@gmail.com",
+      "phone": "1017-6"
+    },
+    {
+      "id": "bc716b40-8e7f-4e56-b296-b22827f4b23f",
+      "name": "bill",
+      "email": "150",
+      "phone": "911"
+    }
+  ]
+}
